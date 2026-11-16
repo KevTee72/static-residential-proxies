@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.proxy-cheap.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="static-residential-proxies" />
   </a>
 </p>
 
