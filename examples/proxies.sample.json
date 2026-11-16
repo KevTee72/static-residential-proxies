@@ -1,0 +1,74 @@
+[
+  {
+    "id": 100001,
+    "status": "ACTIVE",
+    "networkType": "RESIDENTIAL_STATIC",
+    "countryCode": "US",
+    "authentication": {
+      "whitelistedIps": [],
+      "username": "USERNAME_1",
+      "password": "PASSWORD_1"
+    },
+    "connection": {
+      "publicIp": "203.0.113.10",
+      "connectIp": "203.0.113.10",
+      "httpPort": 12345,
+      "httpsPort": null,
+      "socks5Port": null
+    },
+    "proxyType": "HTTP",
+    "createdAt": "2026-11-01T09:00:00Z",
+    "expiresAt": "2026-12-01T09:00:00Z",
+    "metadata": {
+      "ispName": "EXAMPLE ISP A"
+    }
+  },
+  {
+    "id": 100002,
+    "status": "ACTIVE",
+    "networkType": "RESIDENTIAL_STATIC",
+    "countryCode": "DE",
+    "authentication": {
+      "whitelistedIps": [],
+      "username": "USERNAME_2",
+      "password": "PASSWORD_2"
+    },
+    "connection": {
+      "publicIp": "203.0.113.20",
+      "connectIp": "203.0.113.20",
+      "httpPort": 12345,
+      "httpsPort": null,
+      "socks5Port": null
+    },
+    "proxyType": "HTTP",
+    "createdAt": "2026-11-01T09:00:00Z",
+    "expiresAt": "2027-11-01T09:00:00Z",
+    "metadata": {
+      "ispName": "EXAMPLE ISP B"
+    }
+  },
+  {
+    "id": 100003,
+    "status": "PENDING",
+    "networkType": "RESIDENTIAL_STATIC",
+    "countryCode": "GB",
+    "authentication": {
+      "whitelistedIps": [],
+      "username": "USERNAME_3",
+      "password": "PASSWORD_3"
+    },
+    "connection": {
+      "publicIp": "203.0.113.30",
+      "connectIp": "203.0.113.30",
+      "httpPort": 12345,
+      "httpsPort": null,
+      "socks5Port": null
+    },
+    "proxyType": "HTTP",
+    "createdAt": "2026-11-15T09:00:00Z",
+    "expiresAt": "2026-12-15T09:00:00Z",
+    "metadata": {
+      "ispName": "EXAMPLE ISP C"
+    }
+  }
+]
